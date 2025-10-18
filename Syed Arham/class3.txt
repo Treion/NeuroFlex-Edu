@@ -1,3 +1,3 @@
 My name is Arham
 I am learning Python
-Then I will learn Website Development
+Then I will learn Web Development
