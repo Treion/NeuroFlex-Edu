@@ -5,6 +5,7 @@ f.write("\nI am learning Python")
 f.write("\nThen I will learn Web Development")
 
 f = open("/home/arham/Codes/Python/NeuroFlex-Edu/Syed Arham/class3.txt", "r")
+
 # print(f.read())
 
 # f = open("/home/arham/Codes/Python/NeuroFlex-Edu/Syed Arham/class3.txt", "a")
@@ -16,6 +17,3 @@ f = open("/home/arham/Codes/Python/NeuroFlex-Edu/Syed Arham/class3.txt", "r")
 # print(f.read())
 
 # f.close()
-
-print(f.readline())
-print(f.readline())
